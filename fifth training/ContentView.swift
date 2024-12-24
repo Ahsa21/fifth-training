@@ -18,6 +18,10 @@ struct ContentView: View {
         }
         .padding()
     }
+    
+    func nyfunc() {
+        // This is not complete yet
+    }
 }
 
 #Preview {
